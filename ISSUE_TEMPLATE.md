@@ -1,13 +1,9 @@
-<!--
- IMPORTANT: Please use the following link to create a new issue:
+### Expected behavior
 
-  https://www.creative-tim.com/new-issue/vuetify-material-dashboard
+### Actual behavior
 
-**If your issue was not created using the app above, it will be closed immediately.**
--->
+### Your working environment and MDB template version information
 
-<!--
-Love Creative Tim? Do you need Angular, React, Vuejs or HTML? You can visit:
-👉  https://www.creative-tim.com/bundles
-👉  https://www.creative-tim.com
--->
+### Resources (screenshots, code snippets etc.)
+
+For every **question of technical nature**, in order to get the most detailed answer as soon as possible, ask on our dedicated [Support Forum](https://mdbootstrap.com/support/)

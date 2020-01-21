@@ -1,236 +1,116 @@
-# [Vuetify Material Dashboard](https://www.creative-tim.com/vuetify-material-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Vuetify%20Material%20Dashboard%20-%20Admin%20Template%20for%20Vue.js%20https%3A//www.creative-tim.com/product/vuetify-material-dashboard%20%23vuejs%20%23vuex%20%23dashboard%20%23vuetify%20%23vuetify%20material%20%20%40creativetim)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/corporate.jpg)](https://mdbootstrap.com/freebies/jquery/portfolio/)
+
+# Bootstrap 4 & Material Design - Portfolio Template 
+
+Free, responsive Portfolio template containing stunning, full-page Intro and different types of galleries. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
+
+________
+
+# Live Previews: 
+## https://mdbootstrap.com/freebies/jquery/portfolio/
+
+# Most important features:
+
+1. Fully responsive
+
+2. Plenty of useful components
+
+3. Easy installation
+
+4. Easy to use and customize
+
+5. Active community
+
+6. Dedicated support forum
+
+7. Detailed documentation
+
+# Demo:  
+**Main demo**: https://mdbootstrap.com/previews/free-templates/portfolio/full-page-gallery.html
+
+# MDB Quick Start (5 minutes):
+**Written Tutorial**: https://mdbootstrap.com/education/bootstrap/quick-start/
+
+**Video Tutorial**:https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s
+
+**npm installation**
+You can install MDBootstrap using NPM:
+- `npm install mdbootstrap`
+
+# Additional tutorials:
+
+**MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
+
+**MDB - Wordpress tutorial**: https://mdbootstrap.com/education/wordpress/
+
+# Documentation:
+
+**Huge, detailed documentation avilable online on**: https://mdbootstrap.com/
+
+# PRO version:
+
+**MDB Portfolio Template Pro (jQuery version)**: https://mdbootstrap.com/products/jquery-portfolio/
+
+# Highlights:  
+**Bootstrap 4**  
+Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.
+
+**Material Design for Bootstrap**  
+This template is built with MDBootstrap - powerful and free UI Kit, containing 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more.  
+
+**Free for personal and commercial use**  
+Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.   
+
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
+
+**Fully responsive**  
+It doesn't matter whether your project will be displayed on desktop, laptop, tablet or mobile phone. MDB looks great on each screen.
+
+**Technical support**  
+We really care about reliability. If you have any questions - do not hesitate to contact us.  
+
+**Active community**  
+Our society grows day by day. Visit **our forum** and check how it is to be a part of our family.  
+
+**Flex box**  
+MDB fully suppports Flex Box. You can forget about alignment issues.  
+
+**Latest jQuery**  
+MDB is integrated with newest jQuery, therefore you can use all the newest features which comes along with it.  
+
+**Detailed documentation:**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
+
+A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.  
+
+# Useful Links:  
+
+Getting started: https://mdbootstrap.com/docs/jquery/getting-started/download/  
+
+5 min quick start: https://mdbootstrap.com/education/bootstrap/quick-start/  
+
+Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/  
+
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress/  
+
+Other Freebies: https://mdbootstrap.com/freebies/  
+
+Premium Templates: https://mdbootstrap.com/templates/  
 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vuetify-material-dashboard.svg)](https://github.com/creativetimofficial/vuetify-material-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vuetify-material-dashboard.svg?maxAge=259200)](https://github.com/creativetimofficial/vuetify-material-dashboard/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+# Social Media:  
 
-![Product Gif](./public/img/vuetify-material-dashboard.gif)
+Twitter: https://twitter.com/MDBootstrap  
 
-Vuetify Material Dashboard is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/) and [Vuex](https://vuex.vuejs.org/installation.html). It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original [Material Dashboard](https://www.creative-tim.com/product/material-dashboard). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vue](https://vuejs.org/v2/guide/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vue-Router](https://router.vuejs.org/en/).
+Facebook: https://www.facebook.com/mdbootstrap  
 
-## Getting Started
-- Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
-- Open your terminal
-- Navigate to the project
-- Run `npm install` or `yarn install` if you use [Yarn](https://yarnpkg.com/en/)
-- Run `npm run dev` or `yarn serve` to start a local development server
-- A new tab will be opened in your browser
+Pinterest: https://pl.pinterest.com/mdbootstrap 
 
-You can also run additional npm tasks such as
-- `npm run build` to build your app for production
-- `npm run lint` to run linting.
+Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts  
 
-## Vuetify
-Vuetify is developed exactly according to Material Design spec. Every component is hand crafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+Dribbble: https://dribbble.com/mdbootstrap
 
+LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
 
-## Vuex
-
-Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. It also integrates with Vue's official [devtools](https://github.com/vuejs/vue-devtools) extension to provide advanced features such as zero-config time-travel debugging and state snapshot export / import.
-
-## Vue-cli
-
-We used the latest 3.x [Vue CLI](https://github.com/vuejs/vue-cli) which aims to reduce project configuration
-to as little as possible. Almost everything is inside `package.json` + some other related files such as
-`.babel.config.js`, `.eslintrc.js` and `.postcssrc.js`.
-
-Let us know what you think and what we can improve below. And good luck with development!
-
-
-#### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Vuetify](https://vuetifyjs.com/en/) for the wonderful framework
-
-
-Let us know your thoughts below. And good luck with development!
-
-## Table of Contents
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
-## Versions
-
-
-
-[<img src="https://pbs.twimg.com/profile_images/900908683927982080/GWykKJ7r_400x400.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vuetify-material-dashboard)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-angular2)
-
-
-Vuetify | Vue | React | Angular | HTML |
-| --- | --- | --- | --- | --- |
-| [![Vuetify Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/100/original/opt_md_vuetify_thumbnail.jpg)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro) | [![Vue Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/81/original/opt_md_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard) | [![Material Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/71/original/opt_mdr_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-react)  | [![Material Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/53/original/opt_md_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2) | [![Material Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/50/original/opt_md_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard)
-
-## Demo
-
-- [Start page](https://demos.creative-tim.com/vuetify-material-dashboard)
-- [Notifications page](https://demos.creative-tim.com/vuetify-material-dashboard/#/notifications)
-
-[View More](https://demos.creative-tim.com/vue-material-dashboard-pro).
-
-
-## Quick start
-
-Quick start options:
-
-- Download from [Creative Tim](https://www.creative-tim.com/product/vuetify-material-dashboard)
-
-
-## Documentation
-The documentation for the Vuetify Material Dashboard is hosted at our [website](https://demos.creative-tim.com/vuetify-material-dashboard/documentation).
-
-
-## File Structure
-
-Within the download you'll find the following directories and files:
-
-```
-vuetify-material-dashboard
-├── ISSUE_TEMPLATE.md
-├── LICENSE.md
-├── README.md
-├── babel.config.js
-├── cypress.json
-├── jest.config.js
-├── package.json
-├── postcss.config.js
-├── public
-│   ├── favicon.ico
-│   ├── img
-│   └── index.html
-├── src
-│   ├── App.vue
-│   ├── assets
-│   │   └── vuetify.svg
-│   ├── components
-│   │   ├── base
-│   │   │   └── Card.vue
-│   │   ├── core
-│   │   │   ├── AppBar.vue
-│   │   │   ├── Drawer.vue
-│   │   │   ├── Filter.vue
-│   │   │   ├── Footer.vue
-│   │   │   └── View.vue
-│   │   ├── helper
-│   │   │   └── Offset.vue
-│   │   └── material
-│   │       ├── Card.vue
-│   │       ├── ChartCard.vue
-│   │       ├── Notification.vue
-│   │       └── StatsCard.vue
-│   ├── main.js
-│   ├── plugins
-│   │   ├── axios.js
-│   │   ├── base.js
-│   │   ├── chartist.js
-│   │   ├── components.js
-│   │   ├── index.js
-│   │   └── vuetify.js
-│   ├── router
-│   │   ├── index.js
-│   │   └── paths.js
-│   ├── store
-│   │   ├── actions.js
-│   │   ├── getters.js
-│   │   ├── index.js
-│   │   ├── modules
-│   │   │   ├── app
-│   │   │   │   ├── mutations.js
-│   │   │   │   └── state.js
-│   │   │   └── index.js
-│   │   ├── mutations.js
-│   │   └── state.js
-│   ├── utils
-│   │   └── vuex.js
-│   └── views
-│       ├── Dashboard.vue
-│       ├── Icons.vue
-│       ├── Maps.vue
-│       ├── Notifications.vue
-│       ├── TableList.vue
-│       ├── Typography.vue
-│       ├── Upgrade.vue
-│       └── UserProfile.vue
-├── tests
-│   ├── e2e
-│   │   ├── plugins
-│   │   │   └── index.js
-│   │   ├── specs
-│   │   │   └── test.js
-│   │   └── support
-│   │       ├── commands.js
-│   │       └── index.js
-│   └── unit
-│       └── example.spec.js
-├── vue.config.js
-└── yarn.lock
-```
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-
-## Resources
-- [Live Preview](https://demos.creative-tim.com/vuetify-material-dashboard)
-- Download Page: https://www.creative-tim.com/product/vuetify-material-dashboard
-- Documentation is [here](https://demos.creative-tim.com/vuetify-material-dashboard/documentation)
-- License Agreement: https://www.creative-tim.com/license
-- Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vuetify-material-dashboard/issues)
-- Vue Material Dashboard - [demo](https://www.creative-tim.com/product/vue-material-dashboard?ref=github-md-pro)
-- For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=github-md-pro)
-
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Vuetify Material Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Vuetify Material Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
-- Creative Tim [license](https://www.creative-tim.com/license)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-
-- [Vue products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+# Visit our website: https://mdbootstrap.com/
